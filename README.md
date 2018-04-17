@@ -3,7 +3,6 @@
 Terminal wallet is a simple tracker for your Bitcoin wallet. It's meant to be used with Bitcoin Core RPC API.
 
 ### Requirements
-::
 
 	progress==1.3
 	python_bitcoinrpc==1.0
@@ -12,7 +11,6 @@ Terminal wallet is a simple tracker for your Bitcoin wallet. It's meant to be us
 
 or
 
-::
 
 	pip install requirements.txt
 
