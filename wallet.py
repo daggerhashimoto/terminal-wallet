@@ -25,7 +25,7 @@ class color:
 
 def getunspent():
     unspentList = []
-    for i in range(0,2):
+    for i in range(0,len(unspentList)):
         unspentList.append(RPC.listunspent(0)[i])
     return unspentList
 
