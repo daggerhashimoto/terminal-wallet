@@ -2,6 +2,8 @@
 
 Terminal wallet is a simple tracker for your Bitcoin wallet. It's meant to be used with Bitcoin Core RPC API.
 
+![screenshot](screenshot1.png)
+
 ### Requirements
 
 	progress==1.3
@@ -14,5 +16,5 @@ or
 
 	pip install requirements.txt
 
-![screenshot](screenshot1.png)
-
+### Setup
+Change the rpc credentials and server IP, and you're good to go. 
